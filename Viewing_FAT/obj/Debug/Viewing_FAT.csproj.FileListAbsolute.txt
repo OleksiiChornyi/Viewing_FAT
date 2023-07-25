@@ -1,0 +1,38 @@
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\bin\Debug\Viewing_FAT.exe.config
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\bin\Debug\Viewing_FAT.exe
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\bin\Debug\Viewing_FAT.pdb
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\obj\Debug\Viewing_FAT.csprojAssemblyReference.cache
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\obj\Debug\MainWindow.g.cs
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\obj\Debug\App.g.cs
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\obj\Debug\Viewing_FAT_MarkupCompile.cache
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\obj\Debug\Viewing_FAT_MarkupCompile.lref
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\obj\Debug\MainWindow.baml
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\obj\Debug\Viewing_FAT.g.resources
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\obj\Debug\Viewing_FAT.Properties.Resources.resources
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\obj\Debug\Viewing_FAT.csproj.GenerateResource.cache
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\obj\Debug\Viewing_FAT.csproj.CoreCompileInputs.cache
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\obj\Debug\Viewing_FAT.exe
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\obj\Debug\Viewing_FAT.pdb
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\bin\Debug\DiscUtils.dll
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\bin\Debug\DiscUtils.pdb
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT\Viewing_FAT\obj\Debug\Viewing_FAT.csproj.CopyComplete
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\bin\Debug\Viewing_FAT.exe.config
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\bin\Debug\Viewing_FAT.exe
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\bin\Debug\Viewing_FAT.pdb
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\bin\Debug\DiscUtils.dll
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\bin\Debug\DiscUtils.pdb
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\Viewing_FAT.csprojAssemblyReference.cache
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\MainWindow.g.cs
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\App.g.cs
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\Viewing_FAT_MarkupCompile.cache
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\Viewing_FAT_MarkupCompile.lref
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\MainWindow.baml
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\Viewing_FAT.g.resources
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\Viewing_FAT.Properties.Resources.resources
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\Viewing_FAT.csproj.GenerateResource.cache
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\Viewing_FAT.csproj.CoreCompileInputs.cache
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\Viewing_FAT.csproj.CopyComplete
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\Viewing_FAT.exe
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\Viewing_FAT.pdb
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\Viewing_FAT.csproj.AssemblyReference.cache
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\Viewing_FAT\obj\Debug\Viewing_FAT.csproj.SuggestedBindingRedirects.cache

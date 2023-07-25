@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viewing_FAT", "Viewing_FAT\Viewing_FAT.csproj", "{83FA5D3A-FC90-4350-B497-CAC3AEA3A084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscUtils", "discutils-release_0.10_-update_1-\src\DiscUtils.csproj", "{DBB340F9-2386-43C2-A473-FA496CBE07A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release (StyleCop)|Any CPU = Release (StyleCop)|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SignedRelease|Any CPU = SignedRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83FA5D3A-FC90-4350-B497-CAC3AEA3A084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FA5D3A-FC90-4350-B497-CAC3AEA3A084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FA5D3A-FC90-4350-B497-CAC3AEA3A084}.Release (StyleCop)|Any CPU.ActiveCfg = Release|Any CPU
+		{83FA5D3A-FC90-4350-B497-CAC3AEA3A084}.Release (StyleCop)|Any CPU.Build.0 = Release|Any CPU
+		{83FA5D3A-FC90-4350-B497-CAC3AEA3A084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FA5D3A-FC90-4350-B497-CAC3AEA3A084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83FA5D3A-FC90-4350-B497-CAC3AEA3A084}.SignedRelease|Any CPU.ActiveCfg = Release|Any CPU
+		{83FA5D3A-FC90-4350-B497-CAC3AEA3A084}.SignedRelease|Any CPU.Build.0 = Release|Any CPU
+		{DBB340F9-2386-43C2-A473-FA496CBE07A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB340F9-2386-43C2-A473-FA496CBE07A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB340F9-2386-43C2-A473-FA496CBE07A4}.Release (StyleCop)|Any CPU.ActiveCfg = Release (StyleCop)|Any CPU
+		{DBB340F9-2386-43C2-A473-FA496CBE07A4}.Release (StyleCop)|Any CPU.Build.0 = Release (StyleCop)|Any CPU
+		{DBB340F9-2386-43C2-A473-FA496CBE07A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB340F9-2386-43C2-A473-FA496CBE07A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB340F9-2386-43C2-A473-FA496CBE07A4}.SignedRelease|Any CPU.ActiveCfg = SignedRelease|Any CPU
+		{DBB340F9-2386-43C2-A473-FA496CBE07A4}.SignedRelease|Any CPU.Build.0 = SignedRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E028E98-E587-45C6-A8F3-8246DC63F510}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = utils\NTFSDump\NTFSDump.csproj
+	EndGlobalSection
+EndGlobal

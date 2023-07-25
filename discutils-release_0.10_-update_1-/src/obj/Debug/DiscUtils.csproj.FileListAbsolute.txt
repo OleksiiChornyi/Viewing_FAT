@@ -1,0 +1,17 @@
+C:\Users\black\Desktop\discutils-release_0.10_-update_1-\src\bin\Debug\DiscUtils.dll
+C:\Users\black\Desktop\discutils-release_0.10_-update_1-\src\bin\Debug\DiscUtils.pdb
+C:\Users\black\Desktop\discutils-release_0.10_-update_1-\src\bin\Debug\DiscUtils.dll.xml
+C:\Users\black\Desktop\discutils-release_0.10_-update_1-\src\obj\Debug\DiscUtils.Resources.resources
+C:\Users\black\Desktop\discutils-release_0.10_-update_1-\src\obj\Debug\DiscUtils.csproj.GenerateResource.cache
+C:\Users\black\Desktop\discutils-release_0.10_-update_1-\src\obj\Debug\DiscUtils.csproj.CoreCompileInputs.cache
+C:\Users\black\Desktop\discutils-release_0.10_-update_1-\src\obj\Debug\DiscUtils.dll
+C:\Users\black\Desktop\discutils-release_0.10_-update_1-\src\obj\Debug\DiscUtils.pdb
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\discutils-release_0.10_-update_1-\src\obj\Debug\DiscUtils.Resources.resources
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\discutils-release_0.10_-update_1-\src\obj\Debug\DiscUtils.csproj.GenerateResource.cache
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\discutils-release_0.10_-update_1-\src\obj\Debug\DiscUtils.csproj.CoreCompileInputs.cache
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\discutils-release_0.10_-update_1-\src\obj\Debug\DiscUtils.dll
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\discutils-release_0.10_-update_1-\src\obj\Debug\DiscUtils.pdb
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\discutils-release_0.10_-update_1-\src\bin\Debug\DiscUtils.dll
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\discutils-release_0.10_-update_1-\src\bin\Debug\DiscUtils.pdb
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\discutils-release_0.10_-update_1-\src\bin\Debug\DiscUtils.dll.xml
+D:\lessons\3.6\курсач\Viewing FAT\Viewing_FAT — полная\discutils-release_0.10_-update_1-\src\obj\Debug\DiscUtils.csproj.AssemblyReference.cache

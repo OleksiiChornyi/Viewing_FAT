@@ -1,0 +1,22 @@
+﻿<Window x:Class="Viewing_FAT.MainWindow"
+        ResizeMode="NoResize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Viewing_FAT"
+        mc:Ignorable="d"
+        Title="Viewing FAT" Icon="icon.jpg" Height="382" Width="979.6">
+    <Grid x:Name="Grid1" Background="#FF88F3F3">
+        <Button Content="Открыть" HorizontalAlignment="Left" VerticalAlignment="Top" Width="119" Click="Button_Click" Height="40" Margin="75,0,0,0"/>
+        <DataGrid x:Name="dg1" HorizontalAlignment="Left" Height="353" Margin="274,0,0,-0.2" VerticalAlignment="Top" Width="699" IsReadOnly="True" AutoGenerateColumns="True" MouseDoubleClick="Dg1_MouseDoubleClick" CanUserAddRows="False" CanUserDeleteRows="False" CanUserReorderColumns="False">
+
+        </DataGrid>
+        <TextBox x:Name="TextBox_info_prog" HorizontalAlignment="Left" Height="353" Margin="274,0,0,-0.2" TextWrapping="Wrap" VerticalAlignment="Top" Width="699" FontSize="14" IsReadOnly="True" Text="Вас приветствует программа для просмотра FAT образа. Для открытия образа необходимо нажать кнопку &quot;Открыть&quot; и выбрать *.vhd файл на компьютере. На этом месте откроется таблица с данными в выбранном образе, их реальным размером, размером, который они занимают на диске и количеством кластеров, выделеных для них. Так же будет выведена информация о образе файловой системы: тип FAT, размер образа и размер, выделяемый для одного кластера."/>
+        <Label x:Name="Label_info_fat" Content="" HorizontalAlignment="Left" Margin="0,45,0,0" VerticalAlignment="Top" Width="269"/>
+        <Label x:Name="Label_info_vhd" Content="" HorizontalAlignment="Left" Margin="0,76,0,0" VerticalAlignment="Top" Width="269"/>
+        <Label x:Name="Label_info_total_clusters" Content="" HorizontalAlignment="Left" Margin="0,107,0,0" VerticalAlignment="Top" Width="269"/>
+        <Label x:Name="Label_info_num_sect_in_clust" Content="" HorizontalAlignment="Left" Margin="0,138,0,0" VerticalAlignment="Top" Width="269"/>
+        <Label x:Name="Label_info_bytes_per_sector" Content="" HorizontalAlignment="Left" Margin="0,169,0,0" VerticalAlignment="Top" Width="269"/>
+    </Grid>
+</Window>

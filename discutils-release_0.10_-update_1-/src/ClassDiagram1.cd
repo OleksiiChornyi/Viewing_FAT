@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DiscUtils.VirtualDisk">
+    <Position X="1.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>IBAAAAAEAiAAAIAAgAAEAAACAABgyAAEioAIADACjAE=</HashCode>
+      <FileName>VirtualDisk.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DiscUtils.Fat.FatFileSystem">
+    <Position X="5" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="DiscUtils.Fat.FatFileSystem.EntryUpdateAction">
+        <TypeIdentifier>
+          <NewMemberFileName>Fat\FatFileSystem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>+xBEBJEA3PEBayywPKAFWFeBwhQAKOEEWgXykctDgQY=</HashCode>
+      <FileName>Fat\FatFileSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
