@@ -1,0 +1,9 @@
+D:\Git\Viewing_FAT\discutils-release_0.10_-update_1-\src\bin\Release\DiscUtils.dll
+D:\Git\Viewing_FAT\discutils-release_0.10_-update_1-\src\bin\Release\DiscUtils.pdb
+D:\Git\Viewing_FAT\discutils-release_0.10_-update_1-\src\bin\Release\DiscUtils.dll.xml
+D:\Git\Viewing_FAT\discutils-release_0.10_-update_1-\src\obj\Release\DiscUtils.csproj.AssemblyReference.cache
+D:\Git\Viewing_FAT\discutils-release_0.10_-update_1-\src\obj\Release\DiscUtils.Resources.resources
+D:\Git\Viewing_FAT\discutils-release_0.10_-update_1-\src\obj\Release\DiscUtils.csproj.GenerateResource.cache
+D:\Git\Viewing_FAT\discutils-release_0.10_-update_1-\src\obj\Release\DiscUtils.csproj.CoreCompileInputs.cache
+D:\Git\Viewing_FAT\discutils-release_0.10_-update_1-\src\obj\Release\DiscUtils.dll
+D:\Git\Viewing_FAT\discutils-release_0.10_-update_1-\src\obj\Release\DiscUtils.pdb
